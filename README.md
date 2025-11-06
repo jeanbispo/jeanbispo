@@ -1,8 +1,9 @@
 ## Oi, eu sou o Jean
 <div align="center">
-  <a href="https://github.com/jeanbispo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanbispo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbispo&layout=compact&langs_count=10&theme=transparent"/>
+  <a href="https://github.com/jeanbispo" style="text-decoration: none;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanbispo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbispo&layout=compact&langs_count=10&theme=transparent"/>
+  </a>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
